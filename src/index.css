@@ -51,7 +51,7 @@ p{
   margin-top: 50px;
 }
 .linka{
-  margin-top: 156px;
+  margin-top: 16px;
   
 }
 
@@ -64,9 +64,10 @@ b{
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  margin-bottom: 50px;
+  margin-bottom: 40px;
   height: 45px;
   width: 200px;
+  margin-top: 50px;
   
   
 }
